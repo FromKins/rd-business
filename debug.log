@@ -1,0 +1,37 @@
+[0814/090613.331:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0824/093944.633:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0824/103605.816:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0825/093742.064:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0825/094742.102:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0825/094742.206:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0825/095242.302:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0825/100742.400:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0825/102242.619:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0825/103742.896:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0825/105242.963:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0825/110742.968:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0825/112242.973:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0825/115957.758:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0825/121457.762:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0825/122957.852:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0825/124457.888:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0825/125957.988:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0825/131458.102:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0825/132958.245:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0825/134458.423:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0825/135958.499:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0825/141458.608:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0825/142958.660:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0825/144458.685:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0825/145958.749:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0825/151458.789:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0825/152958.796:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0825/154458.803:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0825/155958.853:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0825/161458.931:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0825/162958.935:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0825/164458.938:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0825/165146.511:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0825/165146.535:ERROR:exception_snapshot_win.cc(98)] thread ID 16668 not found in process
+[0925/101626.687:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0927/093541.338:ERROR:crash_report_database_win.cc(469)] failed to stat report
